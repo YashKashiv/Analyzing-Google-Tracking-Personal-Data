@@ -1,0 +1,10 @@
+First download your own Google Data from your account settings
+Data & Privacy --> Download your data
+select all the options and after security check they will send your data in your email between 1 to 4 hours
+
+unzip the data and following code rename files
+
+to run the code open the folder address bar type -->cmd then -->Analysis.py it will generate the db file of your searches including date and time to see the db file install sqllite db browser and browse your data
+
+IN Analysis2.py
+we made graph for our searches it will generate all the gaphs and save into word_images folder
